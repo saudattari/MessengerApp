@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MessengerApp</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="signup">SignUp</string>
+    <string name="developed_by_nsaud">Developed By\nSaud</string>
+    <string name="username">UserName</string>
+    <string name="sending_message">Sending Message...</string>
+</resources>
